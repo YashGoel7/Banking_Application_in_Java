@@ -8,6 +8,6 @@ package Unit1;
  *
  * @author yashg
  */
-public class HelloWorld {
+public class mainClass {
     
 }
